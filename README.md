@@ -1,2 +1,1 @@
-# flaskrexample
-a example to learn flask
+this is a simple example to learn Flask
